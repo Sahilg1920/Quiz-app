@@ -1,5 +1,5 @@
 Firstly initialize all the dependncies by:
- 'npm i'
+### 'npm i'
 In the project directory, you can run:
 
 ### `npm start`
